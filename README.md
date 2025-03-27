@@ -42,25 +42,8 @@
 <br/>
 
 ## Github Stats
-
+<a href="http://www.github.com/Shayan-tick"><img width="335em" src="https://github-readme-stats.vercel.app/api?username=Shayan-tick&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=444e59&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="Shayan-tick's GitHub stats" /></a><a href="http://www.github.com/Shayan-tick"><img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=Shayan-tick&stroke=444e59&background=1c1917&ring=10b981&fire=10b981&currStreakNum=444e59&currStreakLabel=10b981&sideNums=444e59&sideLabels=444e59&dates=444e59&hide_border=true" /></a>
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shayan-tick&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shayan-tick&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br />
-
----
-
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
